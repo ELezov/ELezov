@@ -1,4 +1,4 @@
-## Eugene Lezov 👋 - iOS Developer at Tensor
+## Eugene Lezov 👋 - iOS Developer at Tinkoff
 
 ### Here is some blogs I wrote!
 
